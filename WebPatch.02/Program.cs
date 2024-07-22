@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello,NEW World!");
+
+            Console.WriteLine("NEW World Order!");
         }
     }
 }
